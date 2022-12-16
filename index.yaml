@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  k8s-api:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-16T20:37:42.946831-03:00"
+    description: A Helm chart for Kubernetes
+    digest: 9008abed86e40f35797b44824255c5b40b6e105cf993bacc148350d44c9c87c8
+    name: k8s-api
+    type: application
+    urls:
+    - https://github.com/lucasmlp/helm-charts/k8s-api-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-16T20:37:42.946314-03:00"
